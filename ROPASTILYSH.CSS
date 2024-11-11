@@ -69,7 +69,7 @@ section {
 
 
 .seccion-fondo {
-    background-image: url('./images/mi-imagen.png');
+    background-image: url('mi-imagen.png');
     background-size: 50% 50%;
     background-position: center;
     background-repeat: no-repeat;
